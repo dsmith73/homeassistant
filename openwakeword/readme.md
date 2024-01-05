@@ -1,6 +1,7 @@
 # OpenWakeWords for home assistant voice control  
 
->Additional wake words can be found here: https://github.com/fwartner/home-assistant-wakewords-collection  
+>Additional wake words can be found here: https://github.com/fwartner/home-assistant-wakewords-collection
+>More detailed instructions: https://www.home-assistant.io/voice_control/create_wake_word/  
 
 --- 
 
