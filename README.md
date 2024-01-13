@@ -1,2 +1,4 @@
-# PUBLIC: homeassistant
-home assistant configs and files
+# homeassistant  
+> PUBLIC viewable
+
+home assistant configs and files  
