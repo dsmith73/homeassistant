@@ -26,4 +26,20 @@
 **Wiring Diagram:** https://user-images.githubusercontent.com/4663918/288449523-9ddf3da2-9eac-4be0-beed-11867dc8d446.png  
 
 
+<br>
+<br>
+<br>
+
+---  
+
+*credits*  
+
+```
+(¯`·¯`·.¸¸.·´¯`·.¸¸.·´¯`·.¸¸.·´¯`·.¸¸.·´¯`·.¸·´¯)           \\                      =o) 
+( \                                           / )           (o>                     /\\ 
+ ( ) A big round of FU to: Chamberlain & MyQ ( )           _(()_Shout out to ratgdo_\_V_
+  (/                                         \)             //                       \\ 
+   (.·´¯`·.¸¸.·´¯`·.¸¸.·´¯`·.¸¸.·´¯`·.¸¸.·´¯`)                                        \\
+
+```
 
