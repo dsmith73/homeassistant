@@ -10,12 +10,12 @@
 
 --- 
 
-## Chamberlain details  
-  - Direct Drive  
-  - Security 2.0  
-  - Battery backup  
-  - Security Lock  
-  - 2.4GHz Wi-Fi  
+| **Chamberlain Features** |  |  
+|--- |--- |
+| Direct Drive | Battery backup |
+| Security 2.0 | Motion Detection |
+| Security Lock | 2.4GHz Wi-Fi |
+| Smart LED light | |
 
 --- 
 
