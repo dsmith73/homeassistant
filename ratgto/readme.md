@@ -1,11 +1,11 @@
 # ratgdo + Chamberlain  
-> installing the ratgdo 2.53i on a Chamberlain RJO101 direct drive garage door opener  
+> installing the ratgdo 2.53i on a Chamberlain RJO78 Wall Mount Garage Door Opener  
 
 ---  
 
 | Name | Model | Version | 
 | --- | --- | --- |
-| [**Chamberlain**](https://www.chamberlain.com/wall-mount-ultra-quiet-wi-fi-garage-door-opener-with-battery-backup/p/RJO101MC#6jdHhihjWo) | Wall Mount Wi-Fi Garage Door Opener | RJO101 |
+| [**Chamberlain**](https://support.chamberlaingroup.com/s/article/Chamberlain-Wall-Mount-Garage-Door-Opener-Model-RJO70-Installation-Manual) | Wall Mount Garage Door Opener | RJO78 |
 | [**ratgdo**](https://paulwieland.github.io/ratgdo) |  | 2.53i |
 
 --- 
